@@ -1,0 +1,2 @@
+// const MONGODB ='mongodb+srv://<userName>:<password>@<clustername>.bbky0ci.mongodb.net/?retryWrites=true&w=majority'
+const MONGODB ='mongodb+srv://krishnapalsinghgohil60:<password>@memory.bbky0ci.mongodb.net/?retryWrites=true&w=majority'
